@@ -27,7 +27,7 @@ if(isset($_POST['send'])){
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Profile:Tamal Kanti Mazumder</title>
+   <title>Profile:Taaml Kanti Mazumder</title>
    <link rel="icon" href="favicon.png" sizes="16x16" type="image/png">
    
    <link href="css/pace-theme-corner-indicator.css" rel="stylesheet">
